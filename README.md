@@ -29,6 +29,7 @@ Monitor key business KPIs
 Enable dynamic filtering using slicers
 
 📊 Dashboard Features
+
 🔹 Key Performance Indicators (KPIs)
 
 Total Sales
