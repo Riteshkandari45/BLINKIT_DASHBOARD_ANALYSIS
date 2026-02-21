@@ -6,39 +6,39 @@ The dashboard provides actionable insights into revenue, product categories, out
 
 It demonstrates strong skills in:
 
-Data Cleaning & Transformation (Power Query)
+* Data Cleaning & Transformation (Power Query)
 
-Data Modeling
+* Data Modeling
 
-DAX Measures
+* DAX Measures
 
-Data Visualization
+* Data Visualization
 
-Business Insights Reporting
+* Business Insights Reporting
 
 🎯 Objectives
 
-Analyze overall sales performance
+* Analyze overall sales performance
 
-Identify top-performing product categories
+* Identify top-performing product categories
 
-Track outlet-wise performance
+* Track outlet-wise performance
 
-Monitor key business KPIs
+* Monitor key business KPIs
 
-Enable dynamic filtering using slicers
+* Enable dynamic filtering using slicers
 
 📊 Dashboard Features
 
 🔹 Key Performance Indicators (KPIs)
 
-Total Sales
+* Total Sales
 
-Total Orders
+* Total Orders
 
-Total Profit
+* Total Profit
 
-Average Order Value
+* Average Order Value
 
 🔹 Visualizations Included
 
@@ -52,34 +52,13 @@ Average Order Value
 
 📊 Profit Analysis
 
-🔹 Interactive Elements
-
-Region Slicer
-
-Category Filter
-
-Date Filter
-
-Outlet Type Filter
-
 🧠 Key Insights Generated
 
-Identified highest revenue generating categories
+* Identified highest revenue generating categories
 
-Compared outlet types based on performance
+* Compared outlet types based on performance
 
-Analyzed sales contribution by region
+* Analyzed sales contribution by region
 
-Evaluated profitability trends
+* Evaluated profitability trends
 
-🛠 Tools & Technologies Used
-
-Power BI Desktop
-
-Power Query (Data Transformation)
-
-DAX (Data Analysis Expressions)
-
-Data Modeling (Relationships)
-
-Interactive Visuals & Slicers
